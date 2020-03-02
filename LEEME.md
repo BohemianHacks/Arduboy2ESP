@@ -1,4 +1,4 @@
-# La biblioteca Arduboy2 funcionando en un ESP8266
+# Una Consola de Juegos Portátil por US$5 con Arduboy2 sobre ESP8266
 
 Esta es una implementación de la biblioteca Arduboy2 para el ESP8266, los juegos compatibles con Arduboy2 como Castleboy de TeamARG pueden usarla como un reemplazo directo de la biblioteca Arduboy2, otros juegos como Squario o Virus LQP-79 corren con pequeñas modificaciones, pero con futuras versiones podrían correr nativamente.
 
